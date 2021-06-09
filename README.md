@@ -1,5 +1,5 @@
-# vitcore CMS
-vitcore CMS v0.96 </br>
+# VitCore CMS
+VitCore CMS v0.96 </br>
 Project source code has been rebased to a private repository.
 
 ## Installation
